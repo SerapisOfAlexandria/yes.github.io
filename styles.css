@@ -65,13 +65,13 @@ font-family: 'Roboto', sans-serif;*/
 }
 
 .video-start img:hover{
-    width: 60%;
+    width: 50%;
     transition: 1s;
 }
 .video-start img {
-    width: 50%;
+    width: 40%;
     display: block;
-    margin-top: 3rem;
+    margin-top: 2rem;
     margin-bottom: auto;
     margin-left: auto;
     margin-right: auto;
@@ -132,8 +132,11 @@ font-family: 'Roboto', sans-serif;*/
     background-position: center;
 }
 
-.item2 {
+.item22 {
     color: white;
+    margin-top: 50%;
+    margin-left: 20%;
+
     
 }
 
@@ -150,7 +153,8 @@ font-family: 'Roboto', sans-serif;*/
     transition: 1s;
 }
 
-.item1 {
+.item11 {
+    margin-top: 30%;
     display: flex;
     flex-direction: column;
     justify-content:flex-start;
@@ -209,6 +213,11 @@ font-family: 'Roboto', sans-serif;*/
     padding: .7rem;
     border: 2px solid rgb(6, 55, 135);
     color: rgb(6, 55, 135);
+}
+
+.brochure:hover {
+    color:rgb(10, 76, 182) ;
+    transition: 1s;
 }
 
 .icon {
