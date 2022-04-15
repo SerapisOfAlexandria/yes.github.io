@@ -25,7 +25,7 @@ font-family: 'Roboto', sans-serif;*/
     width: 100%;
 }
 .navigation a {
-    padding-top: 10px;
+    margin-top: 4%;
     flex: auto;
     text-align: center;
     text-decoration: none;
@@ -134,7 +134,7 @@ font-family: 'Roboto', sans-serif;*/
 
 .item2 {
     color: white;
-    margin-top: 70%;
+    
 }
 
 .abc {
@@ -155,7 +155,6 @@ font-family: 'Roboto', sans-serif;*/
     flex-direction: column;
     justify-content:flex-start;
     color: white;
-    margin-top: 20%;
     text-align: left;
 }
 
@@ -181,7 +180,7 @@ font-family: 'Roboto', sans-serif;*/
 }
 
 .con-items3 * {
-    margin: 10%;
+     margin: 10%; 
 }
 
 .button-sec-3 {
