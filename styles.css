@@ -192,7 +192,7 @@ font-family: 'Roboto', sans-serif;*/
 }
 @media (min-width:440px) {
     :root {
-      font-size: 1.5em;
+      font-size: 1.15em;
     }
   }
 @media (min-width:600px) {
