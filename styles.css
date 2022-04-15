@@ -118,7 +118,77 @@ font-family: 'Roboto', sans-serif;*/
     font-size: 1rem;
     align-items:center ;
     margin: 1em;
+}
 
+/*Section2*/
+
+.section-2 {
+    display: flex;
+    width: 100%;
+    height: 50%;
+    background-image: url(skiready.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.item2 {
+    color: white;
+    margin-top: 70%;
+}
+
+.abc {
+    padding: 5%;
+    text-decoration: none;
+    color: white;
+    border: 2px solid white;
+    text-align: center;
+}
+
+.abc:hover {
+    color:rgb(136, 136, 136);
+    transition: 1s;
+}
+
+.item1 {
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    color: white;
+    margin-top: 20%;
+    text-align: left;
+}
+
+.section-3 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 70%;
+    background-image: url(ready_mobile.png);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.section-3-content {
+    margin: 10%;
+    text-align: center;
+}
+
+.content-items {
+    margin: 20%;
+    color: white;
+}
+
+.con-items3 * {
+    margin: 10%;
+}
+
+.button-sec-3 {
+    padding: .5rem;
+    text-decoration: none;
+    color: white;
+    border: 2px solid white;
 }
 @media (min-width:440px) {
     :root {
