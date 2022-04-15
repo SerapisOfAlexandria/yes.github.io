@@ -222,7 +222,7 @@ font-family: 'Roboto', sans-serif;*/
     width: 40%;
     transition: 1s;
 }
-
+/*yes*/
 @media (min-width:440px) {
     :root {
       font-size: 1.5em;
